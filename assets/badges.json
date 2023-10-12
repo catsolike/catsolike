@@ -2,13 +2,11 @@
     "badges":[
         {
             "name": "Nuxt",
-            "logo":"nuxtdotjs",
-            "link":"https://nuxt.com/"
+            "myProjectsQuantity":"0"
         },
         {
             "name": "Vue",
-            "logo":"nuxtdotjs",
-            "link":"https://nuxt.com/"
+            "myProjectsQuantity":"0"
         }
     ]
 }
