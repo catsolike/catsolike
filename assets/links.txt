@@ -1,0 +1,11 @@
+badges
+https://shields.io/badges/dynamic-json-badge
+
+icons for badges
+https://simpleicons.org/
+
+stats
+https://github.com/anuraghazra/github-readme-stats
+
+workflow
+https://github.com/gautamkrishnar/blog-post-workflow
