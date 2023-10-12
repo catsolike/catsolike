@@ -1,12 +1,6 @@
 {
-    "badges":[
-        {
-            "name": "Nuxt",
-            "myProjectsQuantity":"0"
-        },
-        {
-            "name": "Vue",
-            "myProjectsQuantity":"0"
-        }
-    ]
+    "myProjectsQuantity":{
+        "Nuxt":"0",
+        "Vue":"0"
+    }
 }
