@@ -1,7 +1,12 @@
 {
+    // I hope shields.io will support queries like "$.badge-1.name" in the future. Currently does not support.
     "badge-1":{
         "name": "Nuxt",
         "logo":"nuxtdotjs",
         "link":"https://nuxt.com/"
-    }
+    },
+
+    "badge-1-name":"nuxt",
+    "badge-1-logo":"nuxtdotjs",
+    "badge-1-link":"https://nuxt.com/"
 }
