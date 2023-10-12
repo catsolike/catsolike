@@ -1,6 +1,4 @@
 {
-    "myProjectsQuantity":{
-        "Nuxt":"0",
-        "Vue":"0"
-    }
+    "nuxt":"1",
+    "vue":"0"
 }
