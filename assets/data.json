@@ -1,0 +1,23 @@
+{
+    "lang": {
+        "javascript":"",
+        "typescript":"",
+        "python":{
+            "v3":{
+                "projects":"1"
+            }
+        }
+    },
+    "framework":{
+        "nuxt":{
+            "v3":{
+                "projects":"1"
+            }
+        },
+        "vue":{
+            "v3":{
+                "projects":"2"
+            }
+        }
+    }
+}
